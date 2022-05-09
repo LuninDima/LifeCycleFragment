@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LifeCycleFragment</string>
+
+    <string name="button_go_to_second_fragment_text">Перейти на 2-ой фрагмент</string>
+    <array name="multiChoice">
+        <item>Белый</item>
+        <item>Черный</item>
+        <item>Зеленый</item>
+        <item>Красный</item>
+        <item>Синий</item>
+    </array>
+</resources>
